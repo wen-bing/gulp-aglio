@@ -1,7 +1,7 @@
 {
   "author": "Nathan Bleigh",
   "bugs": {
-    "url": "https://github.com/nnnnathann/gulp-aglio/issues"
+    "url": "https://github.com/wen-bing/gulp-aglio/issues"
   },
   "dependencies": {
     "aglio": "git+https://github.com/wen-bing/aglio.git",
@@ -18,7 +18,7 @@
   "directories": {
     "test": "test"
   },
-  "homepage": "https://github.com/nnnnathann/gulp-aglio",
+  "homepage": "https://github.com/wen-bing/gulp-aglio",
   "keywords": [
     "gulp",
     "aglio",
@@ -29,7 +29,7 @@
   "name": "gulp-aglio",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nnnnathann/gulp-aglio.git"
+    "url": "git://github.com/wen-bing/gulp-aglio.git"
   },
   "scripts": {
     "test": "node_modules/.bin/jshint index.js && node_modules/.bin/mocha -R spec"
